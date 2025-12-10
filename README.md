@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vaibhav Chourasiya</h1>
+<h1 align="center">Hi, I'm Vaibhav Chourasia</h1>
 <p align="center">Aspiring UI/UX Designer • Graphics Designer</p>
 
 ---
@@ -63,9 +63,9 @@ I enjoy:
 ## Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/vaiibhavz" target="_blank">LinkedIn</a> • 
-<a href="https://dribbble.com/](https://dribbble.com/v4ibhavz" target="_blank">Dribbble</a> • 
-<a href="https://behance.net/](https://www.behance.net/vaiibhavz" target="_blank">Behance</a>
+<a href="https://www.linkedin.com/in/vaiibhavz">LinkedIn</a> • 
+<a href="https://dribbble.com/](https://dribbble.com/v4ibhavz">Dribbble</a> • 
+<a href="https://behance.net/](https://www.behance.net/vaiibhavz">Behance</a>
 </p>
 
 ---
