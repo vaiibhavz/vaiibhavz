@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Vaibhav Chourasia</h1>
-<p align="center">Aspiring UI/UX Designer • Graphics Designer</p>
+<h3 align="left">Hey there~</h3>
+<p align="left">I'm an Aspiring UI/UX Designer • Graphics Designer</p>
 
 ---
 
