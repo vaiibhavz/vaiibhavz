@@ -1,5 +1,4 @@
-<h3 align="left">Hey there~</h3>
-<p align="left">I'm an Aspiring UI/UX Designer • Graphics Designer</p>
+<h2 align="left">⌏Hey there⌎</h2>
 
 ---
 
