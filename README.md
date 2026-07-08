@@ -19,32 +19,32 @@ I enjoy:
 <p align="left">
 
 <!-- Figma -->
-<a href="https://www.figma.com/" target="_blank">
+<a href="" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Notion -->
-<a href="https://www.notion.so/" target="_blank">
+<a href="" target="blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40"/>
 </a>
 
 <!-- VS Code -->
-<a href="https://code.visualstudio.com/" target="_blank">
+<a href="" target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </a>
 
 <!-- HTML -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+<a href="" target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 </a>
 
 <!-- CSS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+<a href="" target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </a>
 
 <!--JavaScript--> 
-<a href="" target="_blank">
+<a href="" target="blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
 </a>
 
