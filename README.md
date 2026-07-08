@@ -23,37 +23,51 @@ I’m particularly drawn to simplicity, strong visual systems, and solving probl
 ## Tools I Use
 
 <p align="left">
-  <!-- Figma -->
+  <!-- Design & Planning -->
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
+    <img src="https://skillicons.dev/icons?i=figma" width="44" height="44" alt="Figma"/>
   </a>
   &nbsp;
-  <!-- Notion -->
   <a href="https://www.notion.so/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40" height="40" alt="Notion"/>
+    <img src="https://skillicons.dev/icons?i=notion" width="44" height="44" alt="Notion"/>
   </a>
   &nbsp;
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
-  </a>
-  &nbsp;
-  <!-- HTML -->
+
+  <!-- Frontend Development -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+    <img src="https://skillicons.dev/icons?i=html" width="44" height="44" alt="HTML5"/>
   </a>
   &nbsp;
-  <!-- CSS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+    <img src="https://skillicons.dev/icons?i=css" width="44" height="44" alt="CSS3"/>
   </a>
   &nbsp;
-  <!-- JavaScript --> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="44" height="44" alt="JavaScript">
+  </a>
+  &nbsp;
+
+  <!-- Code & CSE Fundamentals -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" width="44" height="44" alt="VS Code"/>
+  </a>
+  &nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" width="44" height="44" alt="Python"/>
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" width="44" height="44" alt="Git"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="44" height="44" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" width="44" height="44" alt="Terminal/CLI"/>
   </a>
 </p>
-
 *I also frequently utilize local and command-line AI tools (like Ollama and Gemini CLI) to streamline workflows and system analysis.*
 
 ---
