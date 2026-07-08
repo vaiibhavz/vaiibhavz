@@ -37,7 +37,6 @@ I’m particularly drawn to simplicity, strong visual systems, and solving probl
   <a href="https://en.wikipedia.org/wiki/Command-line_interface" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Terminal/CLI"/></a>
 </p>
 
-*I also frequently utilize local and command-line AI tools to streamline workflows and system analysis.*
 *I also frequently utilize local and command-line AI tools (like Ollama and Gemini CLI) to streamline workflows and system analysis.*
 
 ---
